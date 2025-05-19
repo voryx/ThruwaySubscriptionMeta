@@ -24,7 +24,7 @@
         }
     },
     "require": {
-        "voryx/thruway": "^0.4.2 | ^0.5.0"
+        "voryx/thruway": "^0.4.2 | ^0.5.0 | ^0.6.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.5.4"
